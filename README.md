@@ -2,7 +2,7 @@
 
 Backend-focused Computer Science undergraduate at KIIT, building scalable systems using Java, Spring Boot, and MySQL.
 
-I focus on writing clean, maintainable backend code with real-world features like authentication, data validation, and system design fundamentals.
+I focus on designing clean APIs, structured backend architectures, and real-world system workflows.
 
 ---
 
@@ -14,10 +14,12 @@ I focus on writing clean, maintainable backend code with real-world features lik
 * Spring Boot
 * REST APIs
 * JPA / Hibernate
+* Google Apps Script
 
 **Database**
 
 * MySQL
+* Google Sheets (via Apps Script)
 
 **Core CS**
 
@@ -38,11 +40,11 @@ I focus on writing clean, maintainable backend code with real-world features lik
 
 ### 🛒 E-Commerce Backend (In Progress)
 
-> Production-style backend system
+Production-style backend system
 
 * JWT Authentication (Spring Security)
 * Role-based access (USER / ADMIN)
-* Cart, Orders, Payment flow
+* Cart, Order, Payment workflows
 * Pagination, filtering, search APIs
 * Transaction management
 * Clean layered architecture (Controller → Service → Repository)
@@ -50,38 +52,29 @@ I focus on writing clean, maintainable backend code with real-world features lik
 
 ---
 
-### 📷 QR Attendance System (Google Apps Script)
+### 📚 Library Management System (LMS)
 
-> Serverless backend system
+Backend system for managing books, users, and transactions
+
+* Book management (CRUD operations)
+* User management
+* Issue & return workflow
+* Relational data handling using JPA
+* Structured service-layer logic
+* REST API design with Spring Boot
+
+---
+
+### 📷 QR Attendance System
+
+Serverless backend using Google Apps Script
 
 * QR-based check-in / check-out system
 * Location capture (latitude & longitude)
 * Real-time dashboard with session tracking
 * Google Apps Script backend + Google Sheets database
-* Handles JSON + manual input parsing
-* State management (IN / OUT toggling)
-
----
-
-### 📘 Student Management API
-
-> Structured backend project
-
-* Layered architecture
-* DTO pattern (Request/Response separation)
-* Validation annotations (@Valid, @NotBlank, etc.)
-* Global exception handling
-* Pagination, sorting, search
-* MySQL + Spring Data JPA
-
----
-
-## 🧠 Currently Learning
-
-* Spring Security & JWT (deep dive)
-* Backend system design basics
-* Performance optimization in APIs
-* Scalable architecture patterns
+* Handles JSON input and manual fallback
+* State-based logic (IN / OUT toggling)
 
 ---
 
@@ -92,16 +85,16 @@ I focus on writing clean, maintainable backend code with real-world features lik
 
 ---
 
-## 🎯 What I'm Working Towards
+## 🎯 Goals
 
 * Backend Engineer roles (high-scale systems)
-* Building production-ready APIs
-* Writing clean, maintainable, and efficient code
+* Strong system design fundamentals
+* Writing clean, maintainable, and scalable backend code
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/tvisha-tiwary-287336260/ 
+* LinkedIn: https://www.linkedin.com/in/tvisha-tiwary-287336260/
 * LeetCode: https://leetcode.com/u/Tvisha_Tiwary/
 * GitHub: https://github.com/tvishatiwary18
